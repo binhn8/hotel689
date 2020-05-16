@@ -27,7 +27,7 @@ export default class HomeActivity extends Component {
         <View style={[styles.buttonContainer]}>
           <Button
             onPress={this.buttonClickListener}
-            title="Search 1"
+            title="Search"
             color="#00B0FF"
           />
         </View>
